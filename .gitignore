@@ -1,5 +1,8 @@
-*.pdf
-*.ps
-
 # Project exclude paths
 /target/
+.idea
+*.iml
+*.ipr
+*.iws
+*.pdf
+*.ps

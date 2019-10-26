@@ -1,6 +1,6 @@
 /*-
  * #%L
- * All-Pair Shortest Path
+ * All-Pairs Shortest Path
  *  
  * Copyright (C) 2019 László-Róbert, Albert (robert@albertlr.ro)
  *  
