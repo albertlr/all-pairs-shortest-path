@@ -1,0 +1,5 @@
+*.pdf
+*.ps
+
+# Project exclude paths
+/target/
